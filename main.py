@@ -119,5 +119,4 @@ def test_prediction(index, w1, b1, w2, b2):
 
 test_prediction(0, w1, b1, w2, b2)
 test_prediction(1, w1, b1, w2, b2)
-test_prediction(2, w1, b1, w2, b2)
-test_prediction(3, w1, b1, w2, b2)
+
